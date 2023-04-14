@@ -2,3 +2,17 @@
     background-color: hsl(0, 87%, 75%);
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
+
+#second {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+.tf {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: hsl(130, 90%, 70%);
+    font-weight: 700;
+}
