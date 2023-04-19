@@ -16,6 +16,8 @@ img {
 
 .content {
   display: flex;
+  gap: 75px;
+  padding: 40px 100px;
 }
 /* do not edit this footer */
 .footer {
