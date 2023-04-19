@@ -19,6 +19,14 @@ img {
   gap: 75px;
   padding: 40px 100px;
 }
+.pills {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.text{
+  text-align: center;
+}
 /* do not edit this footer */
 .footer {
   position: fixed;
