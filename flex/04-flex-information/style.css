@@ -15,13 +15,18 @@ img {
 
 .content {
   display: flex;
-  gap: 75px;
-  padding: 40px 100px;
+  padding-top: 32px;
+  gap: 52px;
+  justify-content: center;
+  flex-wrap: wrap;
 }
+
 .pills {
+  flex: 1 1 200px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  max-width: 200px;
 }
 .text{
   text-align: center;
