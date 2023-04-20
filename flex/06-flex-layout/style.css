@@ -36,3 +36,14 @@ a {
   text-decoration: none;
   color: hsl(0, 0%, 19%);
 }
+
+.header,
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.right-links,
+.left-links {
+  display: flex;
+}
