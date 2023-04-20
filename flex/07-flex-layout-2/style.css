@@ -10,12 +10,16 @@ body {
   height: 72px;
   background: darkmagenta;
   color: white;
+  font-size: 32px;
+  font-weight: 900;
+  padding-left: 16px;
 }
 
 .footer {
   height: 72px;
   background: #eee;
   color: darkmagenta;
+  justify-content: center;
 }
 
 .sidebar {
@@ -32,4 +36,10 @@ body {
 
 .center {
   display: flex;
+}
+
+.header,
+.footer {
+  display: flex;
+  align-items: center;
 }
