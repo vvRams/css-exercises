@@ -46,11 +46,14 @@ a {
 .footer {
   display: flex;
   justify-content: space-between;
+  padding: 12px;
+  gap: 12px;
 }
 
 .right-links,
 .left-links {
   display: flex;
+  gap: 12px;
 }
 
 .content {
@@ -59,4 +62,8 @@ a {
   justify-content: center;
   align-content: center;
   flex-direction: column;
+}
+
+.footer {
+  background-color: #eeeeee;
 }
